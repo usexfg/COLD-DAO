@@ -1,3 +1,4 @@
+
 # *COLD* : Fango's DeFi Banking Suite & Asset Laboratory
 
  **C**ertificate **O**f **L**edger **D**eposit
@@ -7,6 +8,7 @@
 
 
 _____________________
+<img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/9dc01d924ff9712a56d489db825ae6e8449fc2ba/B5F889A6-92A8-4A13-BD7B-0514983310EB.jpeg"><img/>
 1. ### ($COLD) Red Mercury Edition (Tron Network)
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
@@ -35,7 +37,7 @@ Liquidity Pool 1: coming soon
 
 Liquidity Pool 2: coming soon
 ____________________________
-## Next Asset currently in development by vote
+## Next Asset currently in development by vote [here](https://t.me/COLD_DeFi)
 
 > 2. ### (ticker) Asset Name  (Token platform)
    
