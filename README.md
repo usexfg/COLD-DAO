@@ -3,11 +3,11 @@
  **C**ertificate **O**f **L**edger **D**eposit
  
  The purpose of *COLD* Banking suite is to create an in-house DeFi interest market for XFG term deposit yield.
- Allowing for multiple off-chain assets to serve as inflationary interest on time-locked deposits, while still preserving Fango's fixed supply scarcity. 
-_____________________
+ Allowing for multiple off-chain assets to serve as inflationary interest on time-locked deposits, while preserving Fango's fixed supply & sound money principals.
+
 
 _____________________
-1. ## ($COLD) Red Mercury  (Tron Network)
+1. ### ($COLD) Red Mercury Edition (Tron Network)
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
@@ -31,13 +31,13 @@ Token : https://tronscan.io/#/token20/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
 
 Contract: https://tronscan.io/#/contract/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
 
-Liquidity Pool 1: 
+Liquidity Pool 1: coming soon
 
-Liquidity Pool 2:
+Liquidity Pool 2: coming soon
 ____________________________
-### Next Asset currently in development by vote
+## Next Asset currently in development by vote
 
-> 2. ## (ticker) Asset Name  (Token platform)
+> 2. ### (ticker) Asset Name  (Token platform)
    
    Asset description...
    
