@@ -23,9 +23,9 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Description**: Introductory governance asset of COLD: Fango's Choose-Your-Adventure DeFi Banking Desk & Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
 
-**Deciamls** : 12
+**Decimals** : 12
 
-**Governance** (project) : Any amount (See governance section below for more details)
+**Governance** (project) : Any amount (See governance section below)
 
 **Governance** (monetary) : 0.1 COLD required (See goverance section below)
 
@@ -58,17 +58,16 @@ In the event of unsold tokens, any remaining $COLD will be offered as a limited-
 
 For asset purchase find "Write Contract" section under Contract tab, then access 'buyToken' function using your TronLink or Ledger wallet.
 
-
-**COLD Governance**: ~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
+------------------------------------
+### COLD Governance History
+~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
 
  -  1st Governance vote (3/20/21) : Holding a minimum of 0.1 COLD is now required for Monetary Policy while holding ANY amount of COLD for Project Decisions.  
-
 
 
 --------------------------------
 
 Asset 2
-
 
 ## Currently in development by vote [here](https://t.me/COLD_DeFi)
 
@@ -78,10 +77,10 @@ Asset 2
    
    
    Supply: _____
+   
+   Decimals: _____
   
    XFG Interest Rate: ______
-
-   Website:
    
    Token:
    
