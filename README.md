@@ -16,7 +16,7 @@
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
-Introductory governance asset to *COLD* DeFi Banking Desk and Asset Laboratory  
+**Description**: Introductory governance asset of COLD: Fango's Choose-Your-Adventure DeFi Banking Desk & Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
 
 **Current Supply**: ( See token sale details below)
 
