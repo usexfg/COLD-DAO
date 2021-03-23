@@ -1,5 +1,5 @@
 
-# *CØLD* : Fango's DeFi Banking Desk & Asset Laboratory
+# COLD : Fango's DeFi Banking Desk & Asset Laboratory
 
  **C**ertificate **O**f **L**edger **D**eposits
  
@@ -45,7 +45,7 @@ In the event of unsold tokens, any remaining $COLD will be offered as a limited-
 For asset purchase find "Write Contract" section under Contract tab, then access 'buyToken' function using your TronLink or Ledger wallet.
 
 
-**CØLD Governance**: ~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
+**COLD Governance**: ~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
 
  -  1st Governance vote (3/20/21) : Holding a minimum of 0.1 COLD is now required for Monetary Policy while holding ANY amount of COLD for Project Decisions.  
 
