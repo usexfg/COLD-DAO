@@ -18,10 +18,6 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 Introductory governance asset to *COLD* DeFi Banking Desk and Asset Laboratory  
 
-**Governance**: ~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
-
- -  1st Governance Choice (3/20/21) : Minimum amount for Monetary Policy changed to 0.1 COLD while Project Decisions now require holding ANY amount of COLD.             
-           
 **Current Supply**: ( See token sale details below)
 
 **Max Supply** : 80 $COLD
@@ -43,7 +39,17 @@ In the event of unsold tokens, any remaining $COLD will be offered as a limited-
 **Contract**: https://tronscan.io/#/contract/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
 
 For asset purchase find "Write Contract" section under Contract tab, then access 'buyToken' function using your TronLink or Ledger wallet.
+
+
+**C0LD Governance**: ~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
+
+ -  1st Governance vote (3/20/21) : Holding a minimum of 0.1 COLD is now required for Monetary Policy while holding ANY amount of COLD for Project Decisions.  
+
+
+
 ____________________________
+
+
 ## Next Asset currently in development by vote [here](https://t.me/COLD_DeFi)
 
 > 2. ### (ticker) Asset Name  (Token platform)
