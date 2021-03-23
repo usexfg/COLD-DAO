@@ -4,10 +4,15 @@
  **C**ertificate **O**f **L**edger **D**eposits
  
  The purpose of *COLD* DeFi Banking Desk is to create an in-house interest market for XFG deposit yield.
- Allowing for multiple off-chain assets to serve as interest on time-locked XFG deposits while preserving Fango's fixed supply & sound money principals.
- Below is a staging list for details on any off-chain asset(s) offered as an interest payment option of COLD DeFi Banking Desk.
+ Allowing multiple off-chain assets to serve as interest for time-locked XFG ledger deposits-  while simultaneously preserving Fango's fixed supply & sound money principals.
+
+Below is a staging list of details on all off-chain asset(s) offered as payment options by COLD DeFi Banking Desk for interest on XFG deposits.
  
 -----------------------------------------------------------
+
+
+
+Asset 1
 
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/9dc01d924ff9712a56d489db825ae6e8449fc2ba/B5F889A6-92A8-4A13-BD7B-0514983310EB.jpeg"><img/>
 
@@ -18,15 +23,24 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Description**: Introductory governance asset of COLD: Fango's Choose-Your-Adventure DeFi Banking Desk & Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
 
+**Deciamls** : 12
+
+**Governance** (project) : Any amount (See governance section below for more details)
+
+**Governance** (monetary) : 0.1 COLD required (See goverance section below)
+
 **Current Supply**: ( See token sale details below)
 
-**Max Supply** : 80 $COLD
+**Max Supply** : 80  COLD
 
-**XFG Interest Rate** : 80%  (using a supply ratio of COLD to XFG as 1:10000 or 1 XFG = 0.00001 COLD)
+**XFG Interest Rate** : 80%  (using a **supply** ratio of COLD to XFG as 1:100000 or 1 XFG = 0.00001 COLD) Using only multiples of 80 XFG for principal & only term length of 1 month
 
-                                 (ie 800 XFG principal @ term = 0.00640 COLD as interest)
+     example rate:   80 XFG deposit principal @ term yields 0.000640 COLD as interest
+                    800 XFG principal @ term yields 0.0064 COLD
+                   8000 XFG principal @ term yields 0.064 COLD
+                 80,000 XFG principal @ term yields 0.64 COLD
                                  
-Initial offering of 69 available for purchase thru smart contract @ fixed base price of 1 TRX = 0.000625 COLD 
+Initial offering of 69 available for purchase thru smart contract @ fixed base price of **1 TRX** = 0.000625 COLD 
 
 A 'premine' of 11 COLD were sent to a development wallet to be used as network stewardship reward to XFG Elder Node operators (6 total) as well as, reserving (5) for interest payment option on XFG deposit.
 
@@ -51,12 +65,14 @@ For asset purchase find "Write Contract" section under Contract tab, then access
 
 
 
-____________________________
+--------------------------------
+
+Asset 2
 
 
-## Next Asset currently in development by vote [here](https://t.me/COLD_DeFi)
+## Currently in development by vote [here](https://t.me/COLD_DeFi)
 
-> 2. ### (ticker) Asset Name  (Token platform)
+### (ticker) Asset Name  (Token platform)
    
    Asset description...
    
