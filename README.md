@@ -1,41 +1,48 @@
 
-# *COLD* : Fango's DeFi Banking Suite & Asset Laboratory
+# *COLD* : Fango's DeFi Banking Desk & Asset Laboratory
 
- **C**ertificate **O**f **L**edger **D**eposit
+ **C**ertificate **O**f **L**edger **D**eposits
  
- The purpose of *COLD* Banking suite is to create an in-house DeFi interest market for XFG term deposit yield.
- Allowing for multiple off-chain assets to serve as inflationary interest on time-locked deposits, while preserving Fango's fixed supply & sound money principals.
+ The purpose of *COLD* DeFi Banking Desk is to create an in-house interest market for XFG deposit yield.
+ Allowing for multiple off-chain assets to serve as interest on time-locked XFG deposits while preserving Fango's fixed supply & sound money principals.
 
+-----------------------------------------------------------
 
-_____________________
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/9dc01d924ff9712a56d489db825ae6e8449fc2ba/B5F889A6-92A8-4A13-BD7B-0514983310EB.jpeg"><img/>
-1. ### ($COLD) Red Mercury Edition (Tron Network)
+
+## ($COLD) 
+
+### Red Mercury Edition (Tron Network)
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
-Introductory (and governing) asset of *COLD* DeFi Banking suite & Asset Laboratory  
+Introductory governance asset to *COLD* DeFi Banking Desk and Asset Laboratory  
 
-Governance: Asset tokenomics & monetary policy (1.0 or more COLD)  Project development voting (own a min of 0.1 COLD)
-            
-Current Supply: ( See token sale )
+**Governance**: ~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
 
-Max Supply : 80
+ -  1st Governance Choice (3/20/21) : Minimum amount for Monetary Policy changed to 0.1 COLD while Project Decisions now require holding ANY amount of COLD.             
+           
+**Current Supply**: ( See token sale details below)
 
-XFG Interest Rate : 80%
-  
+**Max Supply** : 80 $COLD
+
+**XFG Interest Rate** : 80%  (using a supply ratio of COLD to XFG as 1:10000 or 1 XFG = 0.00001 COLD)
+                                 (ie 800 XFG principal @ term = 0.00640 COLD as interest)
+                                 
 Initial offering of 69 available for purchase thru smart contract @ fixed base price of 1 TRX = 0.000625 COLD 
-TronLink or Ledger wallet is required for all smart contract interactions (including buyToken)
-Any unsold tokens will be offered for as an interest payment option on XFG deposits for a limited time only (fixed supply)
+A 'premine' of 11 COLD were sent to a development wallet to be used as network stewardship reward to XFG Elder Node operators (6 total) as well as, reserving (5) for interest payment option on XFG deposit.
+TronLink or Ledger wallet is required for all smart contract interactions (including buyToken;)
+Presale will end after either a) all 69 tokens are purchased or b) Fango deposit code & smart contract are successfully implemented, whichever comes first. 
+In the event of unsold tokens, any remaining $COLD will be offered as a limited-time* option for interest payments on XFG deposit yield.  
+(*) limited by fixed supply & ultimately we want full distribution of tokens quickly, so as to be in the hands of users for COLD governance.
 
-Website: https://cold.finance
+**Website**: https://cold.finance
 
-Token : https://tronscan.io/#/token20/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
+**Token** : https://tronscan.io/#/token20/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
 
-Contract: https://tronscan.io/#/contract/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
+**Contract**: https://tronscan.io/#/contract/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
 
-Liquidity Pool 1: coming soon
-
-Liquidity Pool 2: coming soon
+For asset purchase find "Write Contract" section under Contract tab, then access 'buyToken' function using your TronLink or Ledger wallet.
 ____________________________
 ## Next Asset currently in development by vote [here](https://t.me/COLD_DeFi)
 
