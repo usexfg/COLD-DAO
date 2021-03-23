@@ -23,13 +23,17 @@ Introductory governance asset to *COLD* DeFi Banking Desk and Asset Laboratory
 **Max Supply** : 80 $COLD
 
 **XFG Interest Rate** : 80%  (using a supply ratio of COLD to XFG as 1:10000 or 1 XFG = 0.00001 COLD)
+
                                  (ie 800 XFG principal @ term = 0.00640 COLD as interest)
                                  
 Initial offering of 69 available for purchase thru smart contract @ fixed base price of 1 TRX = 0.000625 COLD 
+
 A 'premine' of 11 COLD were sent to a development wallet to be used as network stewardship reward to XFG Elder Node operators (6 total) as well as, reserving (5) for interest payment option on XFG deposit.
+
 TronLink or Ledger wallet is required for all smart contract interactions (including buyToken;)
 Presale will end after either a) all 69 tokens are purchased or b) Fango deposit code & smart contract are successfully implemented, whichever comes first. 
 In the event of unsold tokens, any remaining $COLD will be offered as a limited-time* option for interest payments on XFG deposit yield.  
+
 (*) limited by fixed supply & ultimately we want full distribution of tokens quickly, so as to be in the hands of users for COLD governance.
 
 **Website**: https://cold.finance
