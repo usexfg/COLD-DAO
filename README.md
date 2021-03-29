@@ -12,7 +12,7 @@ Below is a staging list of details on all off-chain asset(s) offered as payment 
 
 
 
-Asset 1
+Asset (1)
 
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/9dc01d924ff9712a56d489db825ae6e8449fc2ba/B5F889A6-92A8-4A13-BD7B-0514983310EB.jpeg"><img/>
 
@@ -25,9 +25,9 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Decimals** : 12
 
-**Governance** (project) : Any amount (See governance section below)
+**Governance** (project) : Any amount (See [goverance section](#cold-governance))
 
-**Governance** (monetary) : 0.1 COLD required (See goverance section below)
+**Governance** (monetary) : 0.1 COLD required (See [goverance section](#cold-governance))
 
 **Current Supply**: ( See token sale details below)
 
@@ -56,34 +56,35 @@ In the event of unsold tokens, any remaining $COLD will be offered as a limited-
 
 **Contract**: https://tronscan.io/#/contract/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
 
-For asset purchase find "Write Contract" section under Contract tab, then access 'buyToken' function using your TronLink or Ledger wallet.
+See "Write Contract" section under Contract tab, then access 'buyToken' function for asset purchase using your TronLink or Ledger wallet.
 
 ------------------------------------
-### COLD Governance History
-~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
+<h2 id="cold-governance">COLD Governance<h2>
+   
+   ~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
 
- -  1st Governance vote (3/20/21) : Holding a minimum of 0.1 COLD is now required for Monetary Policy while holding ANY amount of COLD for Project Decisions.  
+ -  1st Governance vote (3/20/21) : Holding a minimum of 0.1 COLD is now required for Monetary Policy while holding ANY amount of COLD is needed for Project Governance voting.  
 
+Proposals: Using above requirements, anyone may propose a vote so long as they a) hold the min req amount + b) make some kind of improvement to the voting interface from previous voting session.  
 
 --------------------------------
 
-Asset 2
+Asset (2)
 
-## Currently in development by vote [here](https://t.me/COLD_DeFi)
+### Coming soon thru Asset Lab development voting [here](https://t.me/COLD_DeFi)
 
-### (ticker) Asset Name  (Token platform)
+#### (ticker) Asset Name  (Token platform)
    
-   Asset description...
-   
-   
+   Asset description____
+      
    Supply: _____
    
    Decimals: _____
   
    XFG Interest Rate: ______
    
-   Token:
+   Token:_____
    
-   Contract: 
+   Contract: ______
    
 
