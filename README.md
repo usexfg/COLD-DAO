@@ -10,8 +10,6 @@ Below is a staging list of details on all off-chain asset(s) offered as payment 
  
 -----------------------------------------------------------
 
-
-
 Asset (1)
 
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/9dc01d924ff9712a56d489db825ae6e8449fc2ba/B5F889A6-92A8-4A13-BD7B-0514983310EB.jpeg"><img/>
@@ -42,11 +40,12 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
                                  
 Initial offering of 69 available for purchase thru smart contract @ fixed base price of **1 TRX** = 0.000625 COLD 
 
-A 'premine' of 11 COLD were sent to a development wallet to be used as network stewardship reward to XFG Elder Node operators (6 total) as well as, reserving (5) for interest payment option on XFG deposit.
+A 'premine' of 11 COLD were sent to a development wallet- using six (6) COLD for network stewardship rewards to XFG Elder Node operators, as well as, five (5) COLD reserved for use of interest payment option on XFG deposit yield.
 
 TronLink or Ledger wallet is required for all smart contract interactions (including buyToken;)
-Presale will end after either a) all 69 tokens are purchased or b) Fango deposit code & smart contract are successfully implemented, whichever comes first. 
-In the event of unsold tokens, any remaining $COLD will be offered as a limited-time* option for interest payments on XFG deposit yield.  
+
+Fixed price offering will end after either a) all 69 tokens are purchased or b) Fango deposit code is successfully implemented, whichever comes first. 
+In the event of unsold tokens, any remaining $COLD will be added to reserve and offered as a limited-time* option for interest payments on XFG deposits.  
 
 (*) limited by fixed supply & ultimately we want full distribution of tokens quickly, so as to be in the hands of users for COLD governance.
 
@@ -58,12 +57,10 @@ In the event of unsold tokens, any remaining $COLD will be offered as a limited-
 
 See "Write Contract" section under Contract tab, then access 'buyToken' function for asset purchase using your TronLink or Ledger wallet.
 
-------------------------------------
-<h2 id="cold-governance">COLD Governance<h2>
-   
-   ~~Asset tokenomics & monetary policy (1.0 or more COLD) | Project development voting (own a min of 0.1 COLD)~~
-
- -  1st Governance vote (3/20/21) : Holding a minimum of 0.1 COLD is now required for Monetary Policy while holding ANY amount of COLD is needed for Project Governance voting.  
+------------------------------
+<h2 id="cold-governance">COLD Governance</h2>
+    
+ -  1st Governance session (3/20/21) : Holding a minimum of 0.1 COLD is now required for Monetary Policy while holding ANY amount of COLD allows users to vote on Project Governance decisions.  
 
 Proposals: Using above requirements, anyone may propose a vote so long as they a) hold the min req amount + b) make some kind of improvement to the voting interface from previous voting session.  
 
@@ -73,7 +70,9 @@ Asset (2)
 
 ### Coming soon thru Asset Lab development voting [here](https://t.me/COLD_DeFi)
 
+
 #### (ticker) Asset Name  (Token platform)
+
    
    Asset description____
       
@@ -87,4 +86,3 @@ Asset (2)
    
    Contract: ______
    
-
