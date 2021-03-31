@@ -1,12 +1,12 @@
 
-# COLD : Fango's DeFi Banking Desk & Asset Laboratory
+# COLD : Fango's DeFi Banking Suite & Asset Laboratory
 
  **C**ertificate **O**f **L**edger **D**eposits
  
- The purpose of *COLD* DeFi Banking Desk is to create an in-house interest market for XFG deposit yield.
+ The purpose of *COLD* DeFi Banking Suite is to create an in-house interest market for XFG deposit yield.
  Allowing multiple off-chain assets to serve as interest for time-locked XFG ledger deposits-  while simultaneously preserving Fango's fixed supply & sound money principals.
 
-Below is a staging list of details on all off-chain asset(s) offered as payment options by COLD DeFi Banking Desk for interest on XFG deposits.
+Below is a staging list of details on all off-chain asset(s) offered as payment options by COLD DeFi Banking Suite for interest on XFG deposits.
  
 -----------------------------------------------------------
 
@@ -19,7 +19,7 @@ Asset (1)
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
-**Description**: Introductory governance asset of COLD: Fango's Choose-Your-Adventure DeFi Banking Desk & Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
+**Description**: Introductory governance asset of COLD: Fango's Choose-Your-Adventure DeFi Banking Suite & Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
 
 **Decimals** : 12
 
