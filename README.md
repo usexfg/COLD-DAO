@@ -29,7 +29,7 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Current Supply**: ( See token sale details below)
 
-**Max Supply** : **80** $COLD
+**Max Supply** : **80**
 
 **XFG Interest Rate** : 80%  (using a **supply** ratio of COLD to XFG as 1:100000 or 1 XFG = 0.00001 COLD) Using only multiples of 80 XFG for principal & only term length of 1 month
 
