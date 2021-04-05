@@ -3,10 +3,10 @@
 
  **C**ertificate **O**f **L**edger **D**eposits
  
- The purpose of *COLD* DeFi Banking Suite is to create an in-house interest market for XFG deposit yield.
- Allowing multiple off-chain assets to serve as interest for time-locked XFG ledger deposits-  while simultaneously preserving Fango's fixed supply & sound money principals.
+ The purpose of **COLD** DeFi Banking Suite is to create an in-house interest market for XFG deposit yield.
+ Allowing multiple off-chain assets to serve as interest for time-locked XFG ledger deposits - while simultaneously preserving Fango's fixed supply & sound money principals.
 
-Below is a staging list of details on all off-chain asset(s) offered as payment options by COLD DeFi Banking Suite for interest on XFG deposits.
+Below is a staging list of details on all off-chain asset(s) offered as payment options thru **COLD** DeFi Banking Suite for interest on XFG deposits.
  
 -----------------------------------------------------------
 
@@ -19,17 +19,17 @@ Asset (1)
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
-**Description**: Introductory governance asset of COLD: Fango's Choose-Your-Adventure DeFi Banking Suite & Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
+**Description**: Introductory governance asset of **COLD**: Fango's DeFi Banking Suite & Crowd-Based Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
 
 **Decimals** : 12
 
 **Governance** (project) : Any amount (See [goverance section](#cold-governance))
 
-**Governance** (monetary) : 0.1 COLD required (See [goverance section](#cold-governance))
+**Governance** (monetary) : 0.1 $COLD required (See [goverance section](#cold-governance))
 
 **Current Supply**: ( See token sale details below)
 
-**Max Supply** : 80  COLD
+**Max Supply** : **80** $COLD
 
 **XFG Interest Rate** : 80%  (using a **supply** ratio of COLD to XFG as 1:100000 or 1 XFG = 0.00001 COLD) Using only multiples of 80 XFG for principal & only term length of 1 month
 
@@ -44,7 +44,7 @@ A 'premine' of 11 COLD were sent to a development wallet- using six (6) COLD for
 
 TronLink or Ledger wallet is required for all smart contract interactions (including buyToken;)
 
-Fixed price offering will end after either a) all 69 tokens are purchased or b) Fango deposit code is successfully implemented, whichever comes first. 
+Fixed price offering will end after either a) all 69 tokens are purchased or b) Fango deposit code is successfully implemented, whichever arrives first. 
 In the event of unsold tokens, any remaining $COLD will be added to reserve and offered as a limited-time* option for interest payments on XFG deposits.  
 
 (*) limited by fixed supply & ultimately we want full distribution of tokens quickly, so as to be in the hands of users for COLD governance.
@@ -60,9 +60,9 @@ See "Write Contract" section under Contract tab, then access 'buyToken' function
 ------------------------------
 <h2 id="cold-governance">COLD Governance</h2>
     
- -  1st Governance session (3/20/21) : Holding a minimum of 0.1 COLD is now required for Monetary Policy while holding ANY amount of COLD allows users to vote on Project Governance decisions.  
+ -  1st Governance session (3/20/21) : Holding a minimum of 0.1 $COLD is now required for Monetary Policy while holding ANY amount of $COLD allows users to vote on Project Governance decisions.  
 
-Proposals: Using above requirements, anyone may propose a vote so long as they a) hold the min req amount + b) make some kind of improvement to the voting interface from previous voting session.  
+Proposals: Using above requirements, anyone may propose a vote so long as they a) hold the min req amount -&- b) make some kind of improvement to the voting interface from previous voting session.  
 
 --------------------------------
 
