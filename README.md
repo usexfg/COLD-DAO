@@ -19,7 +19,7 @@ Asset (1)
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
-**Description**: Introductory governance asset of **COLD**: Fango's DeFi Banking Suite & Crowd-Based Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
+**Description**: Introductory governance asset of **COLD**: Fango's DeFi Banking Suite & Hivemind Asset Laboratory for time-locked XFG Certificate Of Ledger Deposit yield.
 
 **Decimals** : 12
 
