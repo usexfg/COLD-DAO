@@ -31,20 +31,20 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Max Supply** : **80**
 
-**XFG Interest Rate** : 80%  (using a **supply** ratio of COLD to XFG as 1:100000 or 1 XFG = 0.00001 COLD) Using only multiples of 80 XFG for principal & only term length of 1 month
+**XFG Interest Rate** : 80%   (using a **supply** ratio of $COLD to $XFG as 1:100000 or 1 $XFG = 0.00001 $COLD) 
 
-     example rate:   80 XFG deposit principal @ term yields 0.000640 COLD as interest
-                    800 XFG principal @ term yields 0.0064 COLD
-                   8000 XFG principal @ term yields 0.064 COLD
-                 80,000 XFG principal @ term yields 0.64 COLD
+     example rate:   80 $XFG deposit principal @ term yields 0.000640 $COLD as interest
+                    800 $XFG principal @ term yields 0.0064 $COLD
+                  8,000 $XFG principal @ term yields 0.064 $COLD
+                 80,000 $XFG principal @ term yields 0.64 $COLD
                                  
-Initial offering of 69 available for purchase thru smart contract @ fixed base price of **1 TRX** = 0.000625 COLD 
+Initial offering of 69 available for purchase thru smart contract @ fixed base price of **1 TRX** = 0.000625 $COLD 
 
-A 'premine' of 11 COLD were sent to a development wallet- using six (6) COLD for network stewardship rewards to XFG Elder Node operators, as well as, five (5) COLD reserved for use of interest payment option on XFG deposit yield.
+A 'premine' of 11 $COLD were sent to a development wallet- using six (6) $COLD for network stewardship rewards to XFG Elder Node operators, as well as, five (5) $COLD reserved for either a) XFG <> COLD swap pool or b) interest payment option on XFG deposits.
 
 TronLink or Ledger wallet is required for all smart contract interactions (including buyToken;)
 
-Fixed price offering will end after either a) all 69 tokens are purchased or b) Fango deposit code is successfully implemented, whichever arrives first. 
+Fixed price offering will end after either a) all 69 tokens are sold or b) Fango deposit code is successfully implemented, whichever arrives first. 
 In the event of unsold tokens, any remaining $COLD will be added to reserve and offered as a limited-time* option for interest payments on XFG deposits.  
 
 (*) limited by fixed supply & ultimately we want full distribution of tokens quickly, so as to be in the hands of users for COLD governance.
