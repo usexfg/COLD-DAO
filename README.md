@@ -40,14 +40,14 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
                                  
 Initial offering of 69 available for purchase thru smart contract @ fixed base price of **1 TRX** = 0.000625 $COLD 
 
-A 'premine' of 11 $COLD were sent to a development wallet- using six (6) $COLD for network stewardship rewards to XFG Elder Node operators, as well as, five (5) $COLD reserved for either a) XFG <> COLD swap pool or b) interest payment option on XFG deposits.
-
-TronLink or Ledger wallet is required for all smart contract interactions (including buyToken;)
+A 'premine' of 11 $COLD were sent to a development wallet- using six (6) $COLD for network stewardship rewards to XFG Elder Node operators, as well as, five (5) $COLD reserved for interest payment option on XFG deposits.
 
 Fixed price offering will end after either a) all 69 tokens are sold or b) Fango deposit code is successfully implemented, whichever arrives first. 
 In the event of unsold tokens, any remaining $COLD will be added to reserve and offered as a limited-time* option for interest payments on XFG deposits.  
 
-(*) limited by fixed supply & ultimately we want full distribution of tokens quickly, so as to be in the hands of users for COLD governance.
+TronLink or Ledger wallet is required for all smart contract interactions (including buyToken;)
+
+(*) limited by fixed supply & ultimately we want a full distribution of tokens, so as to be in the hands of COLD users for governance.
 
 **Website**: https://cold.finance
 
