@@ -23,13 +23,13 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Decimals** : 12
 
+**Max Supply** : **80**
+
+**Current Supply**: ( See token sale details )
+
 **Governance** (project) : Any amount (See [goverance section](#cold-governance))
 
 **Governance** (monetary) : 0.1 $COLD required (See [goverance section](#cold-governance))
-
-**Current Supply**: ( See token sale details below)
-
-**Max Supply** : **80**
 
 **XFG Interest Rate** : 80%   (using a **supply** ratio of $COLD to $XFG as 1:100000 or 1 $XFG = 0.00001 $COLD) 
 
