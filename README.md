@@ -12,7 +12,7 @@ Below is a staging list of details on all off-chain asset(s) offered as payment 
 
 Asset (1)
 
-<img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/9dc01d924ff9712a56d489db825ae6e8449fc2ba/B5F889A6-92A8-4A13-BD7B-0514983310EB.jpeg"><img/>
+<img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/main/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1.png"><img/>
 
 ## ($COLD) Red Mercury Edition 
 ### (Tron Network only)
