@@ -10,7 +10,7 @@ Below is a staging list of details on all off-chain financial instruments offere
  
 -----------------------------------------------------------
 
-Asset (01)
+Asset #01
 ## ($COLD) Red Mercury | DAO Edition 
 
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/main/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1.png"><img/>
@@ -57,22 +57,22 @@ TronLink or Ledger wallet is required for all smart contract interactions (inclu
 
 **Contract**: https://tronscan.io/#/contract/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
 
-See "Write Contract" section under Contract tab, then access 'buyToken' function for asset purchase using your TronLink or Ledger wallet.
+See "Write Contract" section under Contract tab, and access 'buyToken' function for asset purchase using your TronLink or Ledger wallet.
 
 ------------------------------
 <h2 id="cold-governance">COLD Hivemind Asset DAO | Governance</h2>
 
 COLD's Asset DAO is a group of governing members stewarding the excellence of COLD's DeFi Banking Suite and the election of COLD Hivemind Asset Delegates and/or new asset integrations. Members will vote, according to required holding amounts, on a range of topics from project branding to annual interest rates and the selection of new financial instruments to be made available to users in COLD's yield market.
 
-**Asset Integration**: In order to list a new asset to be offered for banking rewards, a DAO member must first call a vote on the proposed asset. If a positive majority voting decision has been reached, the DAO member must burn 1 full COLD token at the time of integration. This will effectively create a deflationary pressure by reducing total supply, while also raising scarcity of available integrations by limiting the total amount of possible asset issuers. Limited-run assets, such as NFT collections or other fixed supply assets, may continue using their existing COLD integration as a COLD asset delegate for the offerring of additional assets, only if managed and issued by the same elected party or project delegated for the original asset integration.  
+**Asset Integration**: In order to list a new asset to be offered for banking rewards, a DAO member must first call a vote on the proposed asset. If a positive majority voting decision has been reached, the DAO member must burn 1 full COLD token at the time of integration. This will effectively create a deflationary pressure by reducing total supply, while also raising scarcity of available integrations by limiting the total amount of possible asset issuers. Limited-run assets, such as NFT collections or other fixed supply assets, may continue using their existing COLD integration for the additional offering of assets if elected as a COLD Hivemind Asset Delegate, and only if managed and issued by the same elected party or project delegated for the original asset integration.  
 
-Proposals: Using above requirements, anyone may propose a topic upon which to vote so long as they a) hold the min req amount -&- b) make some kind of improvement to the voting interface from previous voting session.  
+**Proposals**: Using requirements below, anyone may propose a topic upon which, DAO members shall vote so long as they a) hold the min req amount -&- b) make some kind of improvement to the voting interface from previous voting session.  
     
  -  1st Governance session (3/20/21) : The holding amount required for Monetary Policy has been lowered from 1 $COLD to now a minimum of 0.1 $COLD while holding ANY amount of $COLD allows any member to vote on Project Governance decisions.
 
 --------------------------------
 
-Asset (2)
+Asset #02
 
 ### Coming soon...
 
