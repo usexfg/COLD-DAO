@@ -3,7 +3,7 @@
 
  ***C**ertificate **O**f **L**edger **D**eposits*
  
- The purpose of **COLD** DeFi Banking Suite is to create an in-house money market for XFG deposit yield.
+ The purpose of **COLD** DeFi Banking Suite is to create an in-house interest market for XFG deposit yield.
  Allowing a multitude of off-chain assets to serve as interest on time-locked XFG ledger deposits - while simultaneously preserving Fango's fixed supply & sound money principals.
 
 Below is a staging list of details on all off-chain financial instruments offered as payment options thru **COLD** DeFi Banking Suite.
