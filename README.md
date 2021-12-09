@@ -76,7 +76,7 @@ Asset #02
 
 ### Coming soon...
 
-Development & voting currently thru [Telegram](https://t.me/COLD_DeFi)
+Development & voting currently thru [Telegram](https://t.me/COLD_DeFi) or [Discord](https://discord.gg/8basXuy6F7)
 
 
 #### (ticker) Asset Name  
