@@ -1,5 +1,5 @@
 
-# COLD : Fango's DeFi Banking Suite & Asset DAO 
+# COLD | Fango's DeFi Banking Suite & Asset DAO 
 
  ***C**ertificate **O**f **L**edger **D**eposits*
  
