@@ -35,8 +35,7 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **XFG Interest Rate** : 80%   (using a **supply** ratio of $COLD to $XFG as 1:100000 or 1 $XFG = 0.00001 $COLD) 
 
-     example rate:   80 $XFG deposit principal @ term yields 0.000640 $COLD as interest
-                    800 $XFG principal @ term yields 0.0064 $COLD
+    example rates:  800 $XFG principal @ term yields 0.0064 $COLD
                   8,000 $XFG principal @ term yields 0.064 $COLD
                  80,000 $XFG principal @ term yields 0.64 $COLD
                                  
