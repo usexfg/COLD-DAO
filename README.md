@@ -11,7 +11,7 @@ Below is a staging list for details on all financial instruments offered as inte
 -----------------------------------------------------------
 
 Asset #01
-## ($COLD) Red Mercury | DAO Edition 
+## Red Mercury | DAO Edition 
 
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/main/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1.png"><img/>
 
@@ -19,11 +19,13 @@ Asset #01
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
+**Ticker** : COLD
+
 **Description**: Introductory governance asset to **COLD** DeFi Banking Suite & Asset DAO for time-locked XFG Certificate Of Ledger Deposit yield.
 
 **Decimals** : 12
 
-**Maximum Supply** : **80**
+**Total Supply** : **80**
 
 **Current Circulating Supply**:  [*19.262603971250*](https://tronscan.org/#/token20/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1)
 
@@ -33,9 +35,25 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **DAO Governance** (list new asset) : burn of 1.0 $COLD required (See [goverance section](#cold-governance))
 
-**XFG Interest Rate** : 80%   (using a **supply** ratio of $COLD to $XFG as 1:100000 or 1 $XFG = 0.00001 $COLD) 
+**XFG Interest Rate** : as COLD and XFG are the same supply by atomic unit (only decimal place differs) interest is paid using a **supply** ratio of $COLD to $XFG as 1:100000 or 1 $XFG = 0.00001 $COLD
 
-    example rates:  800 $XFG principal @ term yields 0.0064 $COLD
+                       Every time XFG doubles/halves in price, COLD interest rates will rise/fall by half.
+                       
+                       XFG at $0.0015 =  80% APR paid in COLD
+                       XFG at $0.0030 =  120% APR paid in COLD
+                       XFG at $0.0060 =  180% APR paid in COLD
+                       XFG at $0.0120 =  270% APR paid in COLD
+                       XFG at $0.0250 =  405% APR paid in COLD
+                       XFG at $0.050  =  608% APR paid in COLD
+                       XFG at $0.100  =  912% APR paid in COLD
+                       XFG at $0.200  =  1368% APR paid in COLD
+                       XFG at $0.40   =  2052% APR paid in COLD
+                       XFG at $0.80   =  3078% APR paid in COLD
+                       XFG at $1.50   =  4617% APR paid in COLD
+                       XFG at $3.00   =  6925% APR paid in COLD
+                       and so on and so forth.
+
+    example yield:  800 $XFG principal @ term yields 0.0064 $COLD
                   8,000 $XFG principal @ term yields 0.064 $COLD
                  80,000 $XFG principal @ term yields 0.64 $COLD
                                  
@@ -71,26 +89,4 @@ COLD's Asset DAO is a group of governing members stewarding the excellence of he
 
 --------------------------------
 
-Asset #02
-
-### Coming soon...
-
-Development & voting currently thru [Telegram](https://t.me/COLD_DeFi) or [Discord](https://discord.gg/8basXuy6F7)
-
-
-#### (ticker) Asset Name  
-(Token platform)
-
-   Website or Token link:_____
-   
-   Contract link: ______
-
-   Asset description____
-      
-   Supply: _____
-   
-   Decimals: _____
-  
-   XFG Interest Rate: ______
-   
-   
+Development & voting currently thru Github and/or [Discord](https://discord.gg/8basXuy6F7)
