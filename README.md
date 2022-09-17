@@ -37,7 +37,7 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **XFG Interest Rate** : as COLD and XFG are the same supply by atomic unit (only decimal place differs) interest is paid using a **supply** ratio of $COLD to $XFG as 1:100000 or 1 $XFG = 0.00001 $COLD
 
-                       Every time XFG doubles/halves in price, COLD interest rates will rise/fall by half.
+                       Every time XFG doubles/halves in price, interest rates in Red Mercury will rise/fall by half.
                        
                        XFG at $0.0015 =  80% APR paid in COLD
                        XFG at $0.0030 =  120% APR paid in COLD
@@ -79,7 +79,7 @@ See "Write Contract" section under Contract tab, and access 'buyToken' function 
 ------------------------------
 <h2 id="cold-governance">COLD Hivemind Asset DAO | Governance</h2>
 
-COLD's Asset DAO is a group of governing members stewarding the excellence of her DeFi Banking Suite and the election of COLD Hivemind Asset Delegates and/or new asset integrations. Members will vote, according to required holding amounts, on a range of topics from project branding to annual interest rates and the selection of new financial instruments made available to users in COLD's yield market.
+COLD's Asset DAO is the group of governing members stewarding the excellence of her Banking Suite and the election of COLD Asset Delegates and/or new asset integrations. Members will vote, according to required holding amounts, on a range of topics from project branding to annual interest rates and the selection of new financial instruments made available to users in COLD's yield market.
 
 **Asset Integration**: In order to list a new asset to be offered for banking rewards, a DAO member must first call a vote on the proposed asset. If a positive majority voting decision has been reached, DAO member(s) must burn a total of 1 full COLD token at the time of integration. This will effectively create a deflationary pressure by reducing total supply, while also raising scarcity of available integrations by limiting the total amount of possible asset issuers. Limited-run assets, such as NFT collections or other fixed supply assets, may continue using their existing COLD integration for the additional offering of assets if elected as a COLD Hivemind Asset Delegate, and only if managed and issued by the same elected party or project delegated for the original asset integration.  
 
