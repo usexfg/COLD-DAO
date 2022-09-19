@@ -68,8 +68,6 @@ TronLink or Ledger wallet is required for all smart contract interactions (inclu
 
 (*) limited by fixed supply & ultimately we want a full distribution of tokens, so as to be in the hands of DAO members for governance.
 
-**Website**: https://cold.finance
-
 **Token** : https://tronscan.io/#/token20/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
 
 **Contract**: https://tronscan.io/#/contract/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1
