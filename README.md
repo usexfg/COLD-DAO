@@ -1,10 +1,10 @@
 
-# COLD | Fango's DeFi Banking Suite & Asset DAO 
+# COLD | Fuego's DeFi Banking Suite & Asset DAO 
 
  ***C**ertificate **O**f **L**edger **D**eposits*
  
  The purpose of **COLD** DeFi Banking Suite is to create an in-house interest market for XFG deposit yield.
- Allowing a multitude of off-chain assets to serve as interest on time-locked XFG ledger deposits - while simultaneously preserving Fango's fixed supply & sound money principals.
+ Allowing a multitude of off-chain assets to serve as interest on time-locked XFG ledger deposits - while simultaneously preserving Fuego's fixed supply & sound money principals.
  
  All COLD deposits and interest redemption steps are completed using the [Fuego Desktop Wallet (GUI)](https://github.com/usexfg/fuego-wallet)
 
@@ -63,7 +63,7 @@ Initial offering of 69 available for purchase thru smart contract @ fixed base p
 
 A 'premine' of 11 $COLD were sent to a development wallet- using six (6) $COLD for network stewardship rewards to XFG Elder Node operators, as well as, five (5) $COLD reserved for interest payment option on XFG deposits.
 
-Fixed price offering will end after either 1) all 69 tokens are sold or 2) Fango deposit code is successfully implemented, whichever arrives first. 
+Fixed price offering will end after either 1) all 69 tokens are sold or 2) Fuego deposit code is successfully implemented, whichever arrives first. 
 In the event of unsold tokens, any remaining $COLD will be either a) added to reserve and used as interest option for XFG deposit yield or b) burned.  
 
 TronLink or Ledger wallet is required for all smart contract interactions (including buyToken)
