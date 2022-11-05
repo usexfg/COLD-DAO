@@ -5,6 +5,8 @@
  
  The purpose of **COLD** DeFi Banking Suite is to create an in-house interest market for XFG deposit yield.
  Allowing a multitude of off-chain assets to serve as interest on time-locked XFG ledger deposits - while simultaneously preserving Fango's fixed supply & sound money principals.
+ 
+ All COLD deposits and interest redemption steps are completed using the [Fuego Desktop Wallet (GUI)](https://github.com/usexfg/fuego-wallet)
 
 Below is a staging list for details on all financial instruments offered as interest options thru **COLD** DeFi Banking Suite.
  
