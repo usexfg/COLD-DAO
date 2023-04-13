@@ -40,21 +40,22 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
                        Every time XFG doubles/halves in price, interest rates in Red Mercury will rise/fall by half.
                        
-                       XFG at $0.0015 =  80% APR paid in COLD
-                       XFG at $0.0030 =  120% APR paid in COLD
-                       XFG at $0.0060 =  180% APR paid in COLD
-                       XFG at $0.0120 =  270% APR paid in COLD
-                       XFG at $0.0250 =  405% APR paid in COLD
-                       XFG at $0.050  =  608% APR paid in COLD
-                       XFG at $0.100  =  912% APR paid in COLD
-                       XFG at $0.200  =  1368% APR paid in COLD
-                       XFG at $0.40   =  2052% APR paid in COLD
-                       XFG at $0.80   =  3078% APR paid in COLD
-                       XFG at $1.50   =  4617% APR paid in COLD
-                       XFG at $3.00   =  6925% APR paid in COLD
+                       XFG at $0.0015 =  0.1625% APR paid in COLD
+                       XFG at $0.0030 =  0.325% APR paid in COLD
+                       XFG at $0.0060 =  0.75% APR paid in COLD
+                       XFG at $0.0120 =  1.25% APR paid in COLD
+                       XFG at $0.0250 =  2.5% APR paid in COLD
+                       XFG at $0.05   =  5% APR paid in COLD
+                       XFG at $0.10   =  10% APR paid in COLD
+                       XFG at $0.20   =  20% APR paid in COLD
+                       XFG at $0.40   =  40% APR paid in COLD
+                       XFG at $0.80   =  80% APR paid in COLD
+                       XFG at $1.50   =  150% APR paid in COLD
+                       XFG at $3.00   =  300% APR paid in COLD
                        and so on and so forth.
 
-    example yield:  800 $XFG principal @ term yields 0.0064 $COLD
+    example yield @ 80% :
+                    800 $XFG principal @ term yields 0.0064 $COLD
                   8,000 $XFG principal @ term yields 0.064 $COLD
                  80,000 $XFG principal @ term yields 0.64 $COLD
                                  
