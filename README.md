@@ -1,29 +1,28 @@
 
-# COLD | Fuego's DeFi Banking Suite & Asset DAO 
+# COLD | Fuego's DeFi Asset DAO & Banking Suite
 
- ***C**ertificate **O**f **L**edger **D**eposits*
  
- The purpose of **COLD** Banking Suite is to create an in-house defi interest market for $XFG deposit yield.
- Allowing a multitude of ***off-chain*** assets to serve as interest on time-locked $XFG ledger deposits - while simultaneously preserving Fuego's fixed supply & sound money principals.
+ The purpose of **COLD** [Banking Suite] is to create a comunal defi interest market for term-locked $XFG deposit yield.
+ Allowing for a *multitude* of **off-chain** assets to serve as interest on time-locked $XFG ledger deposits - simultaneously preserving Fuego's fixed supply & hard money principals.
  
- All COLD deposits and interest redemption steps are completed using the [Fuego Desktop Wallet (GUI)](https://github.com/usexfg/fuego-wallet)
+ XFG **C**ertificate Of **L**edger **D**eposit steps are completed using the [Fuego Desktop Wallet (GUI)](https://github.com/usexfg/fuego-wallet)
 
-Below is a staging list for details on all financial instruments offered as interest options thru **COLD** DeFi Banking Suite.
+Below is a staging list for details on financial instruments offered as interest options using **COLD** [Banking Suite].
  
 -----------------------------------------------------------
 
 Asset #01
 ## Red Mercury | DAO Edition 
 
-<img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/FandomGold/COLD/main/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1.png"><img/>
+<img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/usexfg/COLD-DAO/main/B5F889A6-92A8-4A13-BD7B-0514983310EB.png"><img/>
 
-### (Tron Network only)
+### ( Tron Network )
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Ticker** : COLD
 
-**Description**: Introductory governance asset to **COLD** DeFi Banking Suite & Asset DAO for time-locked XFG Certificate Of Ledger Deposit yield.
+**Description**: Original asset of the **COLD** [Banking Suite] + governance token of COLD DAO
 
 **Decimals** : 12
 
@@ -77,11 +76,13 @@ TronLink or Ledger wallet is required for all smart contract interactions (inclu
 See "Write Contract" section under Contract tab, and access 'buyToken' function for asset purchase using your TronLink or Ledger wallet.
 
 ------------------------------
-<h2 id="cold-governance">COLD Hivemind Asset DAO | Governance</h2>
+<h2 id="cold-governance">COLD Comunal Interest DAO | Governance</h2>
 
-COLD's Asset DAO is the group of governing members stewarding the excellence of her Banking Suite and the election of COLD Asset Delegates and/or new asset integrations. Members will vote, according to required holding amounts, on a range of topics from project branding to annual interest rates and the selection of new financial instruments made available to users in COLD's yield market.
+COLD DAO is the group of governing members stewarding the excellence of COLD [Banking Suite] and yield market. 
 
-**Asset Integration**: In order to list a new asset to be offered for banking rewards, a DAO member must first call a vote on the proposed asset. If a positive majority voting decision has been reached, DAO member(s) must burn a total of 1 full COLD token at the time of integration. This will effectively create a deflationary pressure by reducing total supply, while also raising scarcity of available integrations by limiting the total amount of possible asset issuers. Limited-run assets, such as NFT collections or other fixed supply assets, may continue using their existing COLD integration for the additional offering of assets if elected as a COLD Hivemind Asset Delegate, and only if managed and issued by the same elected party or project delegated for the original asset integration.  
+Members will vote, according to required holding amounts, on a range of topics from project branding to interest rates to the selection of new financial instruments made available to users in COLD [Banking Suite].
+
+**Asset Integration**: In order to list a new asset to be offered for banking rewards, a DAO member must first call a vote on the proposed asset. If a positive majority voting decision has been reached, DAO member(s) must burn a total of 1 full COLD token at the time of integration.  Community created assets such as limited-run NFT collections, fixed supply assets, infinite supply assets, etc. 
 
 **Proposals**: Using the requirements below, any DAO member may propose a topic upon which to vote- so long as the proposing member holds the min req amount based on proposal topic. (project or monetary) 
 
