@@ -1,9 +1,9 @@
 
-# COLD | Fuego's DeFi Asset DAO & Banking Suite
+# COLD | Fuego's Defi Banking Suite & Interest DAO
 
  
- The purpose of **COLD** [Banking Suite] is to create a comunal defi interest market for term-locked $XFG deposit yield.
- Allowing for a *multitude* of **off-chain** assets to serve as interest on time-locked $XFG ledger deposits - simultaneously preserving Fuego's fixed supply & hard money principals.
+ The purpose of **COLD** [Banking Suite] is to create a comunal defi interest market for $XFG deposit yield.
+ Allowing for a *multitude* of **off-chain** assets to serve as interest on term-locked (90 days) $XFG ledger deposits, whiile simultaneously preserving Fuego's fixed supply & hard money principals.
  
  XFG **C**ertificate Of **L**edger **D**eposit steps are completed using the [Fuego Desktop Wallet (GUI)](https://github.com/usexfg/fuego-wallet)
 
@@ -16,7 +16,7 @@ Asset #01
 
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/usexfg/COLD-DAO/main/B5F889A6-92A8-4A13-BD7B-0514983310EB.png"><img/>
 
-### ( Tron Network )
+### ( Tron Network )  
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
