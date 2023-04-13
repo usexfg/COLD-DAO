@@ -7,7 +7,7 @@
  
  XFG **C**ertificate Of **L**edger **D**eposit steps are completed using the [Fuego Desktop App](https://github.com/usexfg/fuego-wallet)
 
-Below is a staging list for details on financial instruments offered as interest options using **COLD** [Banking Suite].
+Below is a detailed list of yield options offered thru **COLD** [Banking Suite].
  
 -----------------------------------------------------------
 
