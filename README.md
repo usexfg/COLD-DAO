@@ -78,9 +78,9 @@ See "Write Contract" section under Contract tab, and access 'buyToken' function 
 ------------------------------
 <h2 id="cold-governance">COLD Communal Interest DAO | Governance</h2>
 
-COLD DAO is the group of governing members stewarding the excellence of COLD [Banking Suite] and yield market. 
+COLD DAO is the group of governing members stewarding the excellence of COLD [Banking Suite]. 
 
-Members will vote, according to required holding amounts, on a range of topics from project branding to interest rates to the selection of new financial instruments made available to users in COLD [Banking Suite].
+Members will vote, according to required holding amounts, on a range of topics from project branding, to interest rates, to the selection of new financial instruments available to users in COLD [Banking Suite].
 
 **Asset Integration**: In order to list a new asset to be offered for banking rewards, a DAO member must first call a vote on the proposed asset. If a positive majority voting decision has been reached, DAO member(s) must burn a total of 1 full COLD token at the time of integration.  Community created assets such as limited-run NFT collections, fixed supply assets, infinite supply assets, etc. 
 
