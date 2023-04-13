@@ -2,7 +2,7 @@
 # COLD | Fuego's Defi Banking Suite & Interest DAO
 
  
- The purpose of **COLD** [Banking Suite] is to create a comunal defi interest market for $XFG deposit yield.
+ The purpose of **COLD** [Banking Suite] is to create a communal defi interest market for $XFG deposit yield.
  Allowing for a *multitude* of **off-chain** assets to serve as interest on term-locked (90 days) $XFG ledger deposits, whiile simultaneously preserving Fuego's fixed supply & hard money principals.
  
  XFG **C**ertificate Of **L**edger **D**eposit steps are completed using the [Fuego Desktop Wallet (GUI)](https://github.com/usexfg/fuego-wallet)
@@ -76,7 +76,7 @@ TronLink or Ledger wallet is required for all smart contract interactions (inclu
 See "Write Contract" section under Contract tab, and access 'buyToken' function for asset purchase using your TronLink or Ledger wallet.
 
 ------------------------------
-<h2 id="cold-governance">COLD Comunal Interest DAO | Governance</h2>
+<h2 id="cold-governance">COLD Communal Interest DAO | Governance</h2>
 
 COLD DAO is the group of governing members stewarding the excellence of COLD [Banking Suite] and yield market. 
 
