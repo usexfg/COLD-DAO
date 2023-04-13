@@ -40,10 +40,10 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
                        Every time XFG doubles/halves in price, interest rates in Red Mercury will rise/fall by half.
                        
-                       XFG at $0.0015 =  0.1625% APR paid in COLD
-                       XFG at $0.0030 =  0.325% APR paid in COLD
-                       XFG at $0.0060 =  0.75% APR paid in COLD
-                       XFG at $0.0120 =  1.25% APR paid in COLD
+                       XFG at $0.0015 =  0.15% APR paid in COLD
+                       XFG at $0.0033 =  0.33% APR paid in COLD
+                       XFG at $0.0075 =  0.75% APR paid in COLD
+                       XFG at $0.0125 =  1.25% APR paid in COLD
                        XFG at $0.0250 =  2.5% APR paid in COLD
                        XFG at $0.05   =  5% APR paid in COLD
                        XFG at $0.10   =  10% APR paid in COLD
