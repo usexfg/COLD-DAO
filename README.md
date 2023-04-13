@@ -26,7 +26,9 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Decimals** : 12
 
-**Total Supply** : **20** (80 total; 4 defi platforms @ 20 COLD each) {Max Supply: Dynamic}
+**Total Supply** : **20** (80 total; 4 defi platforms @ 20 COLD each) 
+
+**Max Supply**: Dynamic
 
 **Current Circulating Supply**:  [*19.262603971250*](https://tronscan.org/#/token20/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1)
 
