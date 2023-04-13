@@ -3,7 +3,7 @@
 
  
  The purpose of **COLD** [Banking Suite] is to create a communal defi interest market for $XFG deposit yield.
- Allowing for a *multitude* of **off-chain** assets to serve as interest on term-locked (90 days) $XFG ledger deposits, whiile simultaneously preserving Fuego's fixed supply & hard money principals.
+ Allowing for a *multitude* of **off-chain** assets to serve as interest on term-locked (90 days) $XFG ledger deposits, while simultaneously preserving Fuego's fixed supply & hard money principals.
  
  XFG **C**ertificate Of **L**edger **D**eposit steps are completed using the [Fuego Desktop App](https://github.com/usexfg/fuego-wallet)
 
