@@ -26,7 +26,7 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Decimals** : 12
 
-**Total Supply** : **20** (80 total; 4 defi platforms @ 20 COLD each)
+**Total Supply** : **20** (80 total; 4 defi platforms @ 20 COLD each) {Max Supply: Dynamic}
 
 **Current Circulating Supply**:  [*19.262603971250*](https://tronscan.org/#/token20/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1)
 
@@ -66,7 +66,6 @@ A 'premine' of 11 $COLD were sent to a development wallet- using six (6) $COLD f
 Fixed price offering will end after either 1) all 69 tokens are sold or 2) Fuego deposit code is successfully implemented, whichever arrives first. 
 In the event of unsold tokens, any remaining $COLD will be either a) added to reserve and used as interest option for XFG deposit yield or b) burned.  
 
-TronLink or Ledger wallet is required for all smart contract interactions (including buyToken)
 
 (*) limited by fixed supply & ultimately we want a full distribution of tokens, so as to be in the hands of DAO members for governance.
 
