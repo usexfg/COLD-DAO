@@ -27,9 +27,11 @@ Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
 **Decimals** : 12
 
-**Total Supply** : **20** (80 total; 4 defi platforms @ 20 COLD each) 
+**Total Red Mercury Supply** : 20 
 
-**Max Supply**: Dynamic
+**Total $COLD Supply**: 80 total (4 defi platforms @ 20 COLD each)
+
+**Max Supply**: Dynamic. After initial total of 80 is distributed, max supply will fluctuate (mint/burn based on $XFG market conditions) above/below 80, with the purpose of becoming an inverse asset of $XFG. ($COLD supply will be algorithmically managed to persuade pricing to function inversely to $XFG price)
 
 **Current Circulating Supply**:  [*19.262603971250*](https://tronscan.org/#/token20/TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1)
 
