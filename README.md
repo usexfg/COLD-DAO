@@ -2,8 +2,9 @@
 # COLD | Fuego's Defi Banking Suite & Interest DAO
 
  
- The purpose of **COLD** [Banking Suite] is to create a communal defi interest market for $XFG deposit yield.
- Allowing for a *multitude* of **off-chain** assets to serve as interest on term-locked (90 days) $XFG ledger deposits, while simultaneously preserving Fuego's fixed supply & hard money principals.
+ The purpose of **COLD** [Banking Suite] is to create a defi infrastructure of community-based reward tokens to serve as interest on $XFG deposit yield.
+ 
+ Allowing for a *multitude* of **off-chain** assets to serve as interest on term-locked (90 days) $XFG ledger deposits- while simultaneously preserving Fuego's fixed supply & hard money principals.
  
  XFG **C**ertificate Of **L**edger **D**eposit steps are completed using the [Fuego Desktop App](https://github.com/usexfg/fuego-wallet)
 
@@ -80,9 +81,9 @@ See "Write Contract" section under Contract tab, and access 'buyToken' function 
 ------------------------------
 <h2 id="cold-governance">COLD Communal Interest DAO | Governance</h2>
 
-COLD DAO is the group of governing members stewarding the excellence of COLD [Banking Suite]. 
+COLD DAO is the group of token holding governance members who are stewarding the excellence of COLD [Banking Suite]. 
 
-Members will vote, according to required holding amounts, on a range of topics from project branding, to interest rates, to the selection of new financial instruments available to users in COLD [Banking Suite].
+Members will vote, **according to required holding amounts**, on a range of topics from project branding, to interest rates, to the selection of new financial instruments available to users in COLD [Banking Suite].
 
 **Asset Integration**: In order to list a new asset to be offered for banking rewards, a DAO member must first call a vote on the proposed asset. If a positive majority voting decision has been reached, DAO member(s) must burn a total of 1 full COLD token at the time of integration.  Community created assets such as limited-run NFT collections, fixed supply assets, infinite supply assets, etc. 
 
