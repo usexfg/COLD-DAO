@@ -2,11 +2,11 @@
 # COLD | Fuego's Defi Banking Suite & Interest DAO
 
  
- The purpose of **COLD** [Banking Suite] is to create a defi infrastructure of community-based reward tokens to serve as interest on $XFG deposit yield.
+ The purpose of **COLD** [Banking Suite] is to create a defi infrastructure of community-based token rewards for interest on term-locked (90 days) $XFG deposit yield.
  
- Allowing for a *multitude* of **off-chain** assets to serve as interest on term-locked (90 days) $XFG ledger deposits- while simultaneously preserving Fuego's fixed supply & hard money principals.
+ Allowing for a *multitude* of **off-chain** assets to serve as interest on  $XFG ledger deposits- while simultaneously preserving Fuego's fixed supply & hard money principals.
  
- XFG **C**ertificate Of **L**edger **D**eposit steps are completed using the [Fuego Desktop App](https://github.com/usexfg/fuego-wallet)
+ All $XFG **c**ertificate of **l**edger **d**eposit steps are completed using the [Fuego Desktop Wallet](https://github.com/usexfg/fuego-wallet), while all $COLD, and other  DeFi community-led tokens (determined by DAO) reward steps will be completed using your DeFi wallet of choice. 
 
 Below is a detailed list of yield options offered thru **COLD** [Banking Suite].
  
