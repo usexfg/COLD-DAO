@@ -1,14 +1,14 @@
 
-# COLD | Fuego's Defi Banking Suite & Asset DAO
+# COLD | Fuego's DeFi Banking Suite & Asset DAO
 
  
- The purpose of **COLD** [Banking Suite] is to create a DeFi infrastructure of community-based token rewards as interest for term-locked $XFG deposit yield.
+ The purpose of **COLD** [Banking Suite] is to create the web3 infrastructure for community members to integrate custom financial instruments / defi tokens to serve as interest/reward options on term-locked $XFG deposit yield.
  
- Allowing for a *multitude* of **off-chain** assets to serve as interest on $XFG ledger deposits- while simultaneously preserving Fuego's hard money principals & fixed supply of 8M8.
+ Making $XFG a yield-bearing asset with a *multitude* of **off-chain** community-based tokens to function as interest- while simultaneously preserving Fuego's hard money principals & fixed supply of 8M8.
  
- All $XFG **c**ertificate of **l**edger **d**eposit steps are completed using the [Fuego Desktop Wallet](https://github.com/usexfg/fuego-wallet), while all $COLD interest (and any other tokens created by the community & approved by DAO) reward steps will be completed using your DeFi wallet of choice. 
+ All steps for **c**ertificate **o**f **l**edger **d**eposits relating to $XFG are completed using the [Fuego Desktop Wallet](https://github.com/usexfg/fuego-wallet), while all $COLD interest (and all other tokens created & approved by DAO) redemption steps are to be completed using your web3 wallet of choice. 
 
-Below is a detailed list of yield options offered thru **COLD** [Banking Suite].
+Below is the current list of asset options available for interest thru **COLD** [Banking Suite].
  
 -----------------------------------------------------------
 
@@ -17,7 +17,7 @@ Asset #01
 
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/usexfg/COLD-DAO/main/B5F889A6-92A8-4A13-BD7B-0514983310EB.png"><img/>
 
-### ( Tron Network )  
+### ( Tron Network )  ❕❎❕ Reissuing to EVM chain ❕❎❕
 
 Contract: **TLGm9Z8ajK4hNvnCX9vQ44bYt2yffw9PN1**
 
