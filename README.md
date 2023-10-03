@@ -6,7 +6,7 @@
  
  Making $XFG a yield-bearing asset with a *multitude* of **off-chain** community-based tokens to function as interest- while simultaneously preserving Fuego's hard money principals & fixed supply of 8M8.
  
- All steps for **c**ertificate **o**f **l**edger **d**eposits relating to $XFG are completed using the [Fuego Desktop Wallet](https://github.com/usexfg/fuego-wallet), while all $COLD interest (and all other tokens created & approved by DAO) redemption steps are to be completed using your web3 wallet of choice. 
+ All steps for **c**ertificate **o**f **l**edger **d**eposits relating to $XFG are completed using the [Fuego Desktop Wallet](https://github.com/usexfg/fuego-wallet), while all $COLD interest (and all other tokens created &/or approved by DAO) redemption steps are to be completed using your web3 wallet of choice. 
 
 Below is the current list of asset options available for interest thru **COLD** [Banking Suite].
  
