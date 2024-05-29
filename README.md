@@ -69,8 +69,8 @@ Asset #01
                  80,000 $XFG principal @ term yields 0.64 $COLD
 
                  
-           XFG price being the combined average of both wXFG & XFG markets.
-           
+           XFG price is the combined average of both wXFG & XFG markets.
+           Transaction fees in COLD are burned at a rate dynamic to interest %  
 
 
 ------------------------------
