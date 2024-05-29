@@ -45,7 +45,7 @@ Asset #01
 
 **XFG Interest Rate** : as COLD and XFG are the same supply by atomic unit (only decimal place differs) **interest is factored using a supply ratio** of 1:100000 ( 1 $COLD : 100,000 $XFG  or  1 $XFG : 0.00001 $COLD )
 
-                       Foe each time XFG doubles/halves in price, interest rates in Red Mercury rise/fall by half.
+                       For the initial wave of onboarding, each time XFG doubles or halves in price, interest rates in Red Mercury (COLD) shall rise/fall by half. Such as:
                        
                        XFG at $0.0015 =  0.15% APR paid in COLD
                        XFG at $0.0033 =  0.33% APR paid in COLD
@@ -59,6 +59,7 @@ Asset #01
                        XFG at $0.80   =  80% APR paid in COLD
                        XFG at $1.50   =  150% APR paid in COLD
                        XFG at $3.00   =  300% APR paid in COLD
+                       XFG at $4.20   =  420% APR paid in COLD
                        and so on and so forth.
 
     example yield @ 80% :
