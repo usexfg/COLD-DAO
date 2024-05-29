@@ -2,13 +2,11 @@
 # COLD | Fuego's DeFi Banking Suite & Asset DAO
 
  
- The purpose of **COLD** [Banking Suite] is to create the web3 infrastructure for community members to integrate custom financial instruments / defi tokens to serve as interest/reward options on term-locked $XFG deposit yield.
+ The purpose of **COLD** Banking Suite is to create the web3 infrastructure for community members to integrate a multitude of custom financial instruments (DeFi tokens, NFTs, etc) to serve as interest on term-locked $XFG deposit yield; effectively making $XFG an yield-bearing asset whilst simultaneously preserving Fuego's hard money principals & fixed supply of 8M8.
  
- Making $XFG a yield-bearing asset with a *multitude* of **off-chain** community-based tokens to function as interest- while simultaneously preserving Fuego's hard money principals & fixed supply of 8M8.
- 
- All steps for **c**ertificate **o**f **l**edger **d**eposits relating to $XFG are completed using the [Fuego Desktop Wallet](https://github.com/usexfg/fuego-wallet), while all $COLD interest (and all other tokens created &/or approved by DAO) redemption steps are to be completed using your web3 wallet of choice. 
+ All steps for **c**ertificates **o**f **l**edger **d**eposit relating to $XFG are completed using the [Fuego Wallet](https://github.com/usexfg/fuego-wallet), while all $COLD interest (and all other tokens created &/or approved by DAO) redemption steps are completed using your web3 wallet of choice. 
 
-Below is a list of available options for interest thru **COLD** [Banking Suite].
+Below is a list of available options for interest thru **COLD** *Banking Suite*.
  
 -----------------------------------------------------------
 (Coming Soon)
@@ -25,7 +23,7 @@ Asset #01
 
 **Ticker** : COLD
 
-**Description**: Original asset of the **COLD** [Banking Suite] + governance token of COLD DAO
+**Description**: Original asset of the **COLD** *Banking Suite* + governance token of COLD DAO
 
 **Decimals** : 12
 
@@ -39,13 +37,13 @@ Asset #01
 
 **DAO Governance** (monetary) : 0.1 $COLD required
 
-**DAO Governance** (add new asset) : burning of 1.0 $COLD required (See [goverance section](#cold-governance))
+**DAO Governance** (list new asset) : burning of 1.0 $COLD required (See [goverance section](#cold-governance))
 
 **Wrapped XFG (wXFG) Interest Rate**: Similar to liquidity pool rates. (wXFG/COLD, EVMs_Native_Coin/COLD)
 
 **XFG Interest Rate** : as COLD and XFG are the same supply by atomic unit (only decimal place differs) **interest is factored using a supply ratio** of 1:100000 ( 1 $COLD : 100,000 $XFG  or  1 $XFG : 0.00001 $COLD )
 
-                       For our initial onboarding wave, each time wXFG doubles or halves in price-
+                       For our initial onboarding wave, each time wXFG doubles or halves in price,
                        interest rates in Red Mercury (COLD) shall rise/fall by half.
                        
                        Such as:
