@@ -13,9 +13,8 @@ Below is a list of available options for interest thru **COLD** *Banking Suite*.
 
 
 Asset #01
-## Red Mercury | DAO Edition 
+## COLD 
 
-<img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/usexfg/COLD-DAO/main/B5F889A6-92A8-4A13-BD7B-0514983310EB.png"><img/>
 
 **Platform**: COLD
 
@@ -31,20 +30,20 @@ Asset #01
 
 **Total COLD Supply**: 80  (4 contract platforms in total @ 20 COLD each)
 
-**Max Supply**: Dynamic. After initial total of 80 is distributed, max supply will fluctuate (mint/burn based on market conditions) above/below 80, with the purpose of becoming an inverse asset of $XFG. (COLD supply will be algorithmically managed to persuade pricing to function inversely to $XFG price)
+**Max Supply**: Dynamic. After initial total of 80 is distributed, max supply may fluctuate (mint/burn based on market conditions) above/below 80, with the purpose of becoming an inverse asset of $XFG. (COLD supply will be algorithmically managed to persuade pricing to function inversely to $XFG price)
 
 **DAO Governance** (project) : Any amount of COLD
 
 **DAO Governance** (monetary) : 0.1 COLD required
 
-**DAO Governance** (list new asset) : burning of 1.0 $COLD required (See [goverance section](#cold-governance))
+**DAO Governance** (list new asset) : burning of 1.0 COLD required (See [goverance section](#cold-governance))
 
 **Wrapped XFG (wXFG) Interest Rate**: Similar to liquidity pool rates. (wXFG/COLD, EVM_Native_Coin/COLD)
 
-**XFG Interest Rate** : as COLD and XFG are the same supply by atomic unit (only decimal place differs) **interest is factored using a supply ratio** of 1:100000 ( 1 $COLD : 100,000 $XFG  or  1 $XFG : 0.00001 $COLD )
+**XFG Interest Rate** : as COLD and XFG are the nearly the same supply by atomic unit (decimal place differs) **interest is factored using a supply ratio** of 1:100000 ( 1 COLD : 100,000 $XFG  or  1 $XFG : 0.00001 COLD )
 
                        For our initial onboarding wave, each time wXFG doubles or halves in price,
-                       interest rates in Red Mercury (COLD) shall rise/fall by half.
+                       interest rates in COLD shall rise/fall by half.
                        
                        Such as:
                        
@@ -64,9 +63,9 @@ Asset #01
                        and so on and so forth.
                                        
     example yield @ 80% :
-                    800 $XFG principal @ term yields 0.0064 $COLD
-                  8,000 $XFG principal @ term yields 0.064 $COLD
-                 80,000 $XFG principal @ term yields 0.64 $COLD
+                    800 $XFG principal @ term yields 0.0064 COLD
+                  8,000 $XFG principal @ term yields 0.064 COLD
+                 80,000 $XFG principal @ term yields 0.64 COLD
 
                  
            XFG price is the combined average of both wXFG & XFG markets.
@@ -76,7 +75,7 @@ Asset #01
 ------------------------------
 <h2 id="cold-governance">COLD Community Asset Treasury DAO | Governance</h2>
 
-COLD DAO is the governing group of COLD token owners/members stewarding the excellence of her banking suite. 
+COLD DAO is the governing group of the COLD protocol and token owners/members stewarding the excellence of her banking suite. 
 
 Members may excercise (or delegate) their vote, **according to required holding amounts**, on a range of topics such as project branding, tokenomics, XFG yield rates, choosing the next smart contract platform(s) of the remaining COLD issuances, COLD treasury decisions, and the selection of new financial instruments to make available in COLD Banking Suite™️.
 
