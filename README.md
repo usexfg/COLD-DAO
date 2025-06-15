@@ -1,5 +1,5 @@
 
-# COLD | Fuego's DeFi Banking Suite & Asset DAO
+# COLD | Fuego's DeFi Banking Suite & Treasury DAO
 
  
  The purpose of **COLD** Banking Suite is to create the web3 infrastructure for community members to integrate a multitude of custom financial instruments (DeFi tokens, NFTs, etc) to serve as interest on term-locked $XFG deposit yield; effectively making $XFG an yield-bearing asset whilst simultaneously preserving Fuego's hard money principals & fixed supply of 8M8.
@@ -17,29 +17,29 @@ Asset #01
 
 <img height="100px" width="100px" title="Red Mercury" src="https://raw.githubusercontent.com/usexfg/COLD-DAO/main/B5F889A6-92A8-4A13-BD7B-0514983310EB.png"><img/>
 
-**Platform**: TBA
+**Platform**: COLD
 
 **Contract**: TBA
 
 **Ticker** : COLD
 
-**Description**: Original asset of the **COLD** *Banking Suite* + governance token of COLD DAO
+**Description**: Original asset issuance of the **COLD** *Banking Suite* governance token of COLD DAO
 
 **Decimals** : 12
 
-**Total Red Mercury Supply** : 20 
+**Initial Supply** : 20 
 
-**Total $COLD Supply**: 80 total (4 defi platforms @ 20 COLD each)
+**Total COLD Supply**: 80  (4 contract platforms in total @ 20 COLD each)
 
-**Max Supply**: Dynamic. After initial total of 80 is distributed, max supply will fluctuate (mint/burn based on market conditions) above/below 80, with the purpose of becoming an inverse asset of $XFG. ($COLD supply will be algorithmically managed to persuade pricing to function inversely to $XFG price)
+**Max Supply**: Dynamic. After initial total of 80 is distributed, max supply will fluctuate (mint/burn based on market conditions) above/below 80, with the purpose of becoming an inverse asset of $XFG. (COLD supply will be algorithmically managed to persuade pricing to function inversely to $XFG price)
 
-**DAO Governance** (project) : Any amount of $COLD
+**DAO Governance** (project) : Any amount of COLD
 
-**DAO Governance** (monetary) : 0.1 $COLD required
+**DAO Governance** (monetary) : 0.1 COLD required
 
 **DAO Governance** (list new asset) : burning of 1.0 $COLD required (See [goverance section](#cold-governance))
 
-**Wrapped XFG (wXFG) Interest Rate**: Similar to liquidity pool rates. (wXFG/COLD, EVMs_Native_Coin/COLD)
+**Wrapped XFG (wXFG) Interest Rate**: Similar to liquidity pool rates. (wXFG/COLD, EVM_Native_Coin/COLD)
 
 **XFG Interest Rate** : as COLD and XFG are the same supply by atomic unit (only decimal place differs) **interest is factored using a supply ratio** of 1:100000 ( 1 $COLD : 100,000 $XFG  or  1 $XFG : 0.00001 $COLD )
 
@@ -74,13 +74,13 @@ Asset #01
 
 
 ------------------------------
-<h2 id="cold-governance">COLD Community Asset DAO | Governance</h2>
+<h2 id="cold-governance">COLD Community Asset Treasury DAO | Governance</h2>
 
-COLD DAO is the governing group of $COLD token owners/members stewarding the excellence of her banking suite. 
+COLD DAO is the governing group of COLD token owners/members stewarding the excellence of her banking suite. 
 
 Members may excercise (or delegate) their vote, **according to required holding amounts**, on a range of topics such as project branding, tokenomics, XFG yield rates, choosing the next smart contract platform(s) of the remaining COLD issuances, COLD treasury decisions, and the selection of new financial instruments to make available in COLD Banking Suite™️.
 
-**Add New Asset / Integrations**: In order to add an new asset to be offered as interest in COLD Banking Suite™️, by acting as a COLD DAO member (@role) - excercise the right to voice your opinion by creating a DIP ( DAO Improvement Proposal )[link] briefly introducing the proposed asset. If a positive majority (51%) voting decision has been reached, DAO member(s) must burn a total of 1 $COLD token at time of integration.  Community assets can be anything; from fixed supply currencies to limited-run NFT collections, infinite supply meme coins, tokenized property, etc...  subscribing to the idea that everything IRL will eventually become tokenized, it gives us plenty of options;)
+**Add New Asset / Integrations**: In order to add an new asset to be offered as interest in COLD Banking Suite™️, by acting as a COLD DAO member (@role) - excercise the right to voice your opinion by creating a DIP ( DAO Improvement Proposal )[link] briefly introducing the proposed asset. If a positive majority (51%) voting decision has been reached, DAO member(s) must burn a total of 1 COLD token at time of integration.  Community assets can be anything; from fixed supply currencies to limited-run NFT collections, infinite supply meme coins, tokenized property, etc...  subscribing to the idea that everything IRL will eventually become tokenized, it gives us plenty of options;)
 
 **Proposals**: Using the holding requirements above, any DAO member may form an improvement proposal on any topic upon which to vote- so long as the proposing member holds the minimum required amount, corresponding to proposal type. (project or monetary) 
 
